@@ -1,0 +1,14 @@
+About Route-Finder****************************************************
+
+Route-Finder finds the shortest route between any two buildings on the University of Washington campus.
+
+About the main three src folders:*****************************************
+
+graph folder - contains the graph ADT that designed to model map data.
+
+route_finder - contains the main application.  The application is divided into two main parts: a model (RouteModel), and a view/controller (AdvancedGUI).  RouteModel models data.  It loads the data from the parser and is able to generate shortest routes using Dijkstra's Algorithm.  AdvancedGUI responds to user input and generates a GUI using Swing.
+
+marvel - contains an application I wrote to help me test my graph model.
+
+Other notes:**********************************************************
+Pretty JavaDoc html for the application can be found in the doc folder.
