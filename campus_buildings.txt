@@ -1,0 +1,18 @@
+EEB	Electrical Engineering Building	2159.9587	1694.8192
+EEB (S)	Electrical Engineering Building (South Entrance)	2135.2099	1741.5387
+CSE	Paul G. Allen Center for Computer Science & Engineering	2259.7112	1715.5273
+MGH	Mary Gates Hall	1973.1382	1433.6676
+MGH (SW)	Mary Gates Hall (Southwest Entrance)	1971.6531	1551.6673
+MGH (E)	Mary Gates Hall (East Entrance)	2043.1036	1514.917
+SUZ	Suzzallo Library	1895.8038	1325.861
+OUG	Odegaard Undergraduate Library	1724.1276	1208.4754
+BGR	By George	1671.5499	1258.4333
+PAB	Physics/Astronomy Building	1560.6467	1698.3767
+PAA	Physics/Astronomy Building A	1625.2679	1783.5181
+MUS	Music	2202.5882	957.31147
+MLR	Miller Hall	2184.7074	1045.0386
+GWN	Gowen Hall	2022.3254	1210.9561
+RAI	Raitt Hall	2094.2987	956.90276
+SAV	Savery Hall	1951.8672	1094.7886
+DEN	Denny Hall	1890.0	892.57144
+KNE	Kane Hall	1874.338	1212.4713
